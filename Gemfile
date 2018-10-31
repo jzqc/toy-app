@@ -36,6 +36,8 @@ gem 'bootsnap', '1.3.2', require: false
 gem 'pg', '1.1.3'
 # From Rails Tutorial
 gem 'jquery-rails', '4.3.3'
+# From heroku
+gem 'aws-sdk-s3', '1.23.1' require: false
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
