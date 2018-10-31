@@ -33,3 +33,4 @@
 # My ignores
 .DS_Store
 **.DS_Store
+awscli-bundle/
